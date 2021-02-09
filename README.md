@@ -13,11 +13,18 @@ An interesting daily planner that motivate users to finish their tasks by giving
 ### App Evaluation
 [Evaluation of your app across the following attributes]
 - **Category:**
+Social Networking / Productivity 
 - **Mobile:**
+This app would be primarily developed for mobile but would be beneficial to have it on Watch and computer.
 - **Story:**
+This app is designed for people who use to procrastinate and lack motivation to get things done. The goal of this app design is to make the jobs seems less painful and offer more reward and happniess to user when they complete their tasks.
 - **Market:**
+Any individual could choose to use this app. 
+
 - **Habit:**
+
 - **Scope:**
+We first want to focus on the basic todo list functionally, such as create a task, set a deadline, and send notification. Then, we want to implement a reward system that user can buy collections with the tasks they complished. Finally, it would be nice to have a friend circle functionality so that user can find their study groups.
 
 ## Product Spec
 
