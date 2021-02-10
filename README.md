@@ -32,15 +32,14 @@ We first want to focus on the basic todo list functionally, such as create a tas
 
 **Required Must-have Stories**
 
-* User logs in to view their current weekly schedule.
+* User logs in to view their current weekly schedule
+* User have a profile where they can view all their task history
 * User creates a task
   * User sets a name, type, and deadline
 * User completes a task
-  * User manually inputs that task has been completed
 * User chooses where notifications will be sent
 * Reward user on completed tasks with in-app currency
 * User purchases rewards with in-app currency
-* User creates a profile
 
 **Optional Nice-to-have Stories**
 
@@ -52,21 +51,26 @@ We first want to focus on the basic todo list functionally, such as create a tas
 
 ### 2. Screen Archetypes
 
-* Login
-* Register
+* Login Screen
+* Register Screen
    * User can sign up or login into their account
    * Upon returning to the app after it is closed, the user will remain logged in.
-* [list second screen here]
-   * [list associated required story here]
-   * ...
+* Profile Screen
+   * Displays profile picture, name, and task history
+* Schedule Screen
+  * Display upcoming task for the week
+  * Option to view daily, weekly, and monthly tasks
+* Store Screen
+  * To purchase in-app features
+
 
 ### 3. Navigation
 
 **Tab Navigation** (Tab to Screen)
 
-* [fill out your first tab]
-* [fill out your second tab]
-* [fill out your third tab]
+* Schedule
+* Profile
+* Store
 
 **Flow Navigation** (Screen to Screen)
 
