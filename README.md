@@ -22,9 +22,10 @@ This app is designed for people who use to procrastinate and lack motivation to 
 Any individual could choose to use this app. 
 
 - **Habit:**
+Great for productivity and allows the user to maintain a habit of acomplishing their tasks via in-app milestones
 
 - **Scope:**
-We first want to focus on the basic todo list functionally, such as create a task, set a deadline, and send notification. Then, we want to implement a reward system that user can buy collections with the tasks they complished. Finally, it would be nice to have a friend circle functionality so that user can find their study groups.
+We first want to focus on the basic todo list functionally, such as create a task, set a deadline, and send notification. Then, we want to implement a reward system that user can buy collections with the tasks they complished. Finally, it would be nice to have a friend circle functionality so that user can find their study groups. In addition to this, a nice feature to have would be sharing the same tasks with your friends
 
 ## Product Spec
 
@@ -40,6 +41,7 @@ We first want to focus on the basic todo list functionally, such as create a tas
 * User chooses where notifications will be sent
 * Reward user on completed tasks with in-app currency
 * User purchases rewards with in-app currency
+* Users can check their reward milestones
 
 **Optional Nice-to-have Stories**
 
