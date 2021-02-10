@@ -40,6 +40,7 @@ We first want to focus on the basic todo list functionally, such as create a tas
 * User chooses where notifications will be sent
 * Reward user on completed tasks with in-app currency
 * User purchases rewards with in-app currency
+* User creates a profile
 
 **Optional Nice-to-have Stories**
 
@@ -47,13 +48,14 @@ We first want to focus on the basic todo list functionally, such as create a tas
   * Google Calendar integration
 * Social feature between friends
   * Leaderboards, games, etc.
+* If no internet connection, display user information from last online session
 
 ### 2. Screen Archetypes
 
 * Login
 * Register
-   * [list associated required story here]
-   * ...
+   * User can sign up or login into their account
+   * Upon returning to the app after it is closed, the user will remain logged in.
 * [list second screen here]
    * [list associated required story here]
    * ...
