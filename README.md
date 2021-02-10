@@ -32,17 +32,26 @@ We first want to focus on the basic todo list functionally, such as create a tas
 
 **Required Must-have Stories**
 
-* [fill in your required user stories here]
-* ...
+* User logs in to view their current weekly schedule.
+* User creates a task
+  * User sets a name, type, and deadline
+* User completes a task
+  * User manually inputs that task has been completed
+* User chooses where notifications will be sent
+* Reward user on completed tasks with in-app currency
+* User purchases rewards with in-app currency
 
 **Optional Nice-to-have Stories**
 
-* [fill in your required user stories here]
-* ...
+* User can log in through Google
+  * Google Calendar integration
+* Social feature between friends
+  * Leaderboards, games, etc.
 
 ### 2. Screen Archetypes
 
-* [list first screen here]
+* Login
+* Register
    * [list associated required story here]
    * ...
 * [list second screen here]
