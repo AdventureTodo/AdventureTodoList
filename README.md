@@ -82,7 +82,13 @@ We first want to focus on the basic todo list functionally, such as create a tas
 * [Schedule page]
    * [Tasks Page]
    * [Edit Tasks Page]
-   * [Edit Tasks Page]
+   * [Tasks Completion Page]
+* [Profile page]
+   * [Edit Profile Page]
+* [Store page]
+   * [Items Page]
+   * [In App currency Page]
+   * [Buy Item Page]
 
 ## Wireframes
 [Add picture of your hand sketched wireframes in this section]
