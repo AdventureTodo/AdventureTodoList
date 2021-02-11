@@ -76,12 +76,13 @@ We first want to focus on the basic todo list functionally, such as create a tas
 
 **Flow Navigation** (Screen to Screen)
 
-* [list first screen here]
-   * [list screen navigation here]
-   * ...
-* [list second screen here]
-   * [list screen navigation here]
-   * ...
+* [SignIn Page]
+   * [SignUp page]
+   * [Schedule page]
+* [Schedule page]
+   * [Tasks Page]
+   * [Edit Tasks Page]
+   * [Edit Tasks Page]
 
 ## Wireframes
 [Add picture of your hand sketched wireframes in this section]
