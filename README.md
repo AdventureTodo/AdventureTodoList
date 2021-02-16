@@ -110,7 +110,7 @@ Digital Low Fidelity (With Flow Navigation Arrows)
 Post
 
 | Property        | Type              | Description                                |
-| --------------- |:----------------: | -----------------------------------------: |
+| :-------------- |:----------------- | :----------------------------------------- |
 | objectid        | String            | unique id for created task (default field) |
 | author          | Pointer to User   | task author                                |
 | taskName        | String            | name of task                               |
