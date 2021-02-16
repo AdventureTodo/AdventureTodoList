@@ -99,13 +99,9 @@ Hand Sketched
 
 <img src="https://user-images.githubusercontent.com/64571228/108005972-05ab3b80-6faf-11eb-8376-15b09e72f24d.png" width=600>
 
-Low Fidelity
+Digital Low Fidelity (With Flow Navigation Arrows)
 
 <img src="https://user-images.githubusercontent.com/64571228/108005724-53737400-6fae-11eb-89c1-31808895bce1.png" width=600>
-
-### [BONUS] Digital Wireframes & Mockups
-
-### [BONUS] Interactive Prototype
 
 ## Schema 
 [This section will be completed in Unit 9]
