@@ -106,7 +106,20 @@ Digital Low Fidelity (With Flow Navigation Arrows)
 ## Schema 
 [This section will be completed in Unit 9]
 ### Models
-[Add table of models]
+
+Post
+
+| Property        | Type              | Description                                |
+| --------------- |:----------------: | -----------------------------------------: |
+| objectid        | String            | unique id for created task (default field) |
+| author          | Pointer to User   | task author                                |
+| taskName        | String            | name of task                               |
+| taskCategory    | String            | category of task                           |
+| taskDeadline    | DateTime          | deadline of task                           |
+| taskDescription | String            | description of task                        |
+| createdAt       | DateTime          | date when task is created (default field)  |
+| updatedAt       | DateTime          | date when task is updated (default field)  |
+
 ### Networking
 - [Add list of network requests by screen ]
 - [Create basic snippets for each Parse network request]
